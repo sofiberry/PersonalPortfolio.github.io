@@ -298,7 +298,8 @@ footer p:nth-child(2) {
 .mt-4 {
    font-size: 16px;
    text-align: center;
-   color: #f9004d;
+   color: #red;
+   
 }
 
 .social {
